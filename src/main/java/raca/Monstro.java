@@ -1,9 +1,9 @@
 package raca;
 
-public class humanoide {
+public class Monstro {
 
 	Double pontoDeVida;
-	Double exp;
+	Double EXP;
 	Integer nivel;
 	
 	
@@ -20,11 +20,11 @@ public class humanoide {
 		public void setPontoDeVida(Double pontoDeVida) {
 			this.pontoDeVida = pontoDeVida;
 		}
-		public Double getExp() {
-			return exp;
+		public Double getEXP() {
+			return EXP;
 		}
-		public void setExp(Double exp) {
-			this.exp = exp;
+		public void setEXP(Double eXP) {
+			EXP = eXP;
 		}
 	
 	

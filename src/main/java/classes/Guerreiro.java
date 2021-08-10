@@ -1,8 +1,8 @@
 package classes;
 
-import raca.humanoide;
+import raca.Humanoide;
 
-public class mago extends humanoide{
+public class Guerreiro extends Humanoide{
 String nome;
 Double mana;
 String arma;
